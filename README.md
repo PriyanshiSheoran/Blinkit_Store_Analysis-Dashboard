@@ -32,3 +32,4 @@ DAX
 📌 Conclusion
 
 This dashboard demonstrates practical skills in data visualization, business analysis, and Power BI reporting, suitable for a professional data analytics portfolio.# Blinkit_Store_Analysis-Dashboard
+![Sales Dashboard](Blinkit Store.jpg)
